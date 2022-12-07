@@ -1,0 +1,9 @@
+com\end2end\todo\api\RegisterApi.class
+com\end2end\todo\utils\ReadFile.class
+com\end2end\todo\utils\Setup.class
+com\end2end\todo\utils\TearDown.class
+com\end2end\todo\steps\LoginSteps.class
+com\end2end\todo\utils\ConfigFileReader.class
+com\end2end\todo\RunnerTest.class
+com\end2end\todo\pageobject\TestRestAssured.class
+com\end2end\todo\pageobject\LoginPage.class

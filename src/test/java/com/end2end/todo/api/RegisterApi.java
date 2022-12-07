@@ -20,6 +20,8 @@ public class RegisterApi {
 					.body(data)
 			   .when().post("/login")
 			.then().extract().response();
+		int message =response.statusCode();
+		System.out.println(message);
 		
 	}
 
