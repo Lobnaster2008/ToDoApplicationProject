@@ -1,7 +1,7 @@
 name : first push on git
 on : 
   push : 
-    branches : "master"
+    branches : ["master"]
 jobs :
   test :
     runs-on : windows-latest
